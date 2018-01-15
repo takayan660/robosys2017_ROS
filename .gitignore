@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+debounce_handler.py
+echo/
+fauxmo.py
