@@ -30,7 +30,7 @@ class device_handler(debounce_handler):
 
 if __name__ == "__main__":
     rospy.init_node('Alexa_LED')
-    pub = rospy.Publisher('count_up', Int32, queue_size=1)
+    pub = rospy.Publisher('Alexa_LED_up', Int32, queue_size=1)
     # Startup the fauxmo server
     fauxmo.DEBUG = True
     p = fauxmo.poller()
