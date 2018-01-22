@@ -1,5 +1,5 @@
 # robosys2017_ROS
-[LEDをつけて」と言うとAlexaがLEDをつけてくれる
+「LEDをつけて」と言うとAlexaがLEDをつけてくれる
 
 https://github.com/sparkgene/echo をROS化してみたもの
 
